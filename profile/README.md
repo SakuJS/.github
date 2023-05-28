@@ -8,4 +8,8 @@ interactivas en las cuales tú, como usuario, tendras que completar para consegu
 
 Hola Comunidad!! Después de arduos días de trabajo, al fin podemos anunciar que el Proyecto se muda a las tecnologías de REACT y NextJS 13, con el cual podremos ofrecer funciones innovadoras y una forma más segura de hacer las cosas!!
 
-Con esto al fin podremos proveeros cursos más complejos y funci9
+Con esto al fin podremos proveeros cursos más complejos y funcionamiento más veloz!
+
+Aparte, dejamos la antigua forma de API así mudandonos a un servicio de MongoDB!!
+
+Para más información lee nuestro ultimo POST: https://sakujs.github.io/blog/posts/WNBipL8jJJZ7fk0r
