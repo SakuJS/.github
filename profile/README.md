@@ -13,3 +13,16 @@ Con esto al fin podremos proveeros cursos más complejos y funcionamiento más v
 Aparte, dejamos la antigua forma de API así mudandonos a un servicio de MongoDB!!
 
 Para más información lee nuestro ultimo POST: https://sakujs.github.io/blog/posts/WNBipL8jJJZ7fk0r
+
+# No es un ADIOS, es un HASTA LUEGO!
+
+Buenas Comunidad!! Esto no es un ADIOS, sino un HASTA LUEGO!
+
+Debido a la importancia de otro gran proyecto y falta de tiempo, SakuJS llega a un fin! Desde ALKSoftware queremos decir que esto para nada significa que dejemos de hacer sitios web y software de primerisima calidad, ni mucho menos, pero SakuJS lleva en un paron desde hace meses y creemos que ya es tiempo de parar el desarrollo!
+
+Con este proyecto se han aprendido muchas cosas y eso es lo bueno.
+
+Nos vemos en una proxima oportunidad!!
+
+Saludos.
+SakuJS Team and ALKSoftware®
